@@ -1,0 +1,3 @@
+streamlit>=1.40
+sympy>=1.13
+requests>=2.32
